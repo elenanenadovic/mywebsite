@@ -1,0 +1,5 @@
+* 7c517f4 (origin/hotfix, master, hotfix) using hotfix branch
+| * 9346c61 (HEAD -> featureA, origin/featureA) adding text through featureA
+|/  
+* b09421d (origin/master) adding text to index.html
+* a8d42bc adding index.html
